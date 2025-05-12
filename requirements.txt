@@ -1,5 +1,6 @@
 streamlit
+langgraph
 requests
-crewai
 langchain
 openai
+python-dotenv
